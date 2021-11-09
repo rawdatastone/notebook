@@ -7,3 +7,6 @@ There is no purpouse behind this and structure can be rearranged at any time.
 
 Adding some structure:
     Prefixes to indicate a general context and group related scripts.
+
+Adding some purpouse
+    Python folder has now a 'knowledge' folder where I put my notes on python, training, examples etc
